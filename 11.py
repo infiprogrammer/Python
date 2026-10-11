@@ -1,0 +1,4 @@
+# Find ths ASCII value of character
+
+c =input("Enter a character:")
+print("The ASCII value of"+c+"is",ord(c))
